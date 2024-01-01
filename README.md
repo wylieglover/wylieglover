@@ -1,5 +1,8 @@
-### Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&multiline=true&random=false&width=500&height=80&lines=Wylie+Glover;Researcher+%7C+Recent+Graduate+%7C+Software+Engineer;C%2B%2B+%7C+Python+%7C+Java" alt="Typing SVG" /></a>
 
+
+* 🎓 Recently graduated with a degree in Computer Science @ Georgia Southern University
+* 🌱 I’m currently working on building a personal website using React.js
 <!--
 **wylieglover/wylieglover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
