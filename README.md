@@ -13,6 +13,10 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a> 
 
+<br />
+<br />
+
+
 * 🎓 Recently graduated with a degree in Computer Science @ [Georgia Southern University](https://www.georgiasouthern.edu/cec/cs/)
 * 🌱 I’m currently working on building a personal website using React.js
 * 📫 How to reach me: rwylieg@gmail.com
