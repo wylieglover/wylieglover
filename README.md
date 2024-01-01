@@ -3,6 +3,7 @@
 
 * 🎓 Recently graduated with a degree in Computer Science @ Georgia Southern University
 * 🌱 I’m currently working on building a personal website using React.js
+* 📫 How to reach me: rwylieg@gmail.com
 <!--
 **wylieglover/wylieglover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
