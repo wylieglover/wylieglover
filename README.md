@@ -3,7 +3,7 @@
 <a href="https://wylieglover.com">
     <img src="https://img.shields.io/badge/Website-wylieglover.com-red?style=flat-square">
 </a>
-<a href="https://wylieglover.com/resume">
+<a href="https://wylieglover.com/resume.pdf">
     <img src="https://img.shields.io/badge/PDF-Resume-red?style=flat-square&logo=adobe">
 </a> 
 <a href="https://www.linkedin.com/in/wylieglover/">
